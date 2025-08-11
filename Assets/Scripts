@@ -1,1 +1,22 @@
+Movemention.cs:
+using UnityEngine;
 
+public class Move : MonoBeheavour
+{
+    private float speed= 5f;
+    private RigidBody rb;
+
+    private void Start()
+    {
+        rb = GetComponent<RigidBody>();
+    }
+
+    private void FixedUpdate()
+    {
+        float Horizontal = Input.GetAxis("Horiontal");
+        float vertical - Input.GetAxis("Vertical");
+    
+        Vector3 direction = new Vector3(Horiontal, 0f, vertical);
+        rb.MovePosition(transform.position + direction * speed * Time.fixedDeltaTime)
+    }
+}
