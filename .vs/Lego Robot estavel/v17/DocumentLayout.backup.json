@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\unityProjects\\Lego Robot estavel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD23F891-5A23-9D38-FA2D-31ED15DE0FF3}|Assembly-CSharp.csproj|c:\\dev\\unityprojects\\lego robot estavel\\assets\\scripts\\player\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD23F891-5A23-9D38-FA2D-31ED15DE0FF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD23F891-5A23-9D38-FA2D-31ED15DE0FF3}|Assembly-CSharp.csproj|c:\\dev\\unityprojects\\lego robot estavel\\assets\\scripts\\joystick\\joystickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD23F891-5A23-9D38-FA2D-31ED15DE0FF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\joystick\\joystickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JoyStickController.cs",
+              "DocumentMoniker": "C:\\dev\\unityProjects\\Lego Robot estavel\\Assets\\Scripts\\joyStick\\JoyStickController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\joyStick\\JoyStickController.cs",
+              "ToolTip": "C:\\dev\\unityProjects\\Lego Robot estavel\\Assets\\Scripts\\joyStick\\JoyStickController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\joyStick\\JoyStickController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:25:11.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovePlayer.cs",
+              "DocumentMoniker": "C:\\dev\\unityProjects\\Lego Robot estavel\\Assets\\Scripts\\Player\\MovePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MovePlayer.cs",
+              "ToolTip": "C:\\dev\\unityProjects\\Lego Robot estavel\\Assets\\Scripts\\Player\\MovePlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MovePlayer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:25:06.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

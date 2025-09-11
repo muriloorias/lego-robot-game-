@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\unityProjects\\Lego Robot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45090386-C270-E1CA-3F4B-79F88E7EE9F1}|Assembly-CSharp.csproj|c:\\dev\\unityprojects\\lego robot\\assets\\scripts\\player\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45090386-C270-E1CA-3F4B-79F88E7EE9F1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovePlayer.cs",
+              "DocumentMoniker": "C:\\dev\\unityProjects\\Lego Robot\\Assets\\Scripts\\Player\\MovePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MovePlayer.cs",
+              "ToolTip": "C:\\dev\\unityProjects\\Lego Robot\\Assets\\Scripts\\Player\\MovePlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MovePlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:26:44.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
