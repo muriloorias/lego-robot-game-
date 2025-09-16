@@ -33,6 +33,7 @@ public class MovePlayer : MonoBehaviour
 
         Vector3 direction = (camForward * vertical + camRight * horizontal).normalized;
 
+        //if para decidir a pposição do personagem
         if (direction.magnitude > 0.1f)
         {
             float targetAngle = Mathf.Atan2(direction.x, direction.z) * Mathf.Rad2Deg;
@@ -57,7 +58,7 @@ public class MovePlayer : MonoBehaviour
             jumpRequest = true;
         }
     }
-""
+
     private void FixedUpdate()
     {
         if (jumpRequest)
