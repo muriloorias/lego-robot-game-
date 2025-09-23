@@ -1,11 +1,10 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
-using 
-
+//configruações do controle
 public class JoyStickController : MonoBehaviour
 {
     private void Update()
     {
-
+        
     }
 }
