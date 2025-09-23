@@ -78,4 +78,10 @@ public class MovePlayer : MonoBehaviour
             grounded = true;
         }
     }
+
+    //essa função sera utilizada apenas para a configração do controle
+    public void activeJump(bool jumpTrue)
+    {
+        jumpRequest = jumpTrue;
+    }
 }
