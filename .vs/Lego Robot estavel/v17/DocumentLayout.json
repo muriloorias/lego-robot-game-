@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\dev\\unityProjects\\Lego Robot estavel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD23F891-5A23-9D38-FA2D-31ED15DE0FF3}|Assembly-CSharp.csproj|c:\\dev\\unityprojects\\lego robot estavel\\assets\\scripts\\player\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD23F891-5A23-9D38-FA2D-31ED15DE0FF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD23F891-5A23-9D38-FA2D-31ED15DE0FF3}|Assembly-CSharp.csproj|c:\\dev\\unityprojects\\lego robot estavel\\assets\\scripts\\menu\\menugame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD23F891-5A23-9D38-FA2D-31ED15DE0FF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\menugame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD23F891-5A23-9D38-FA2D-31ED15DE0FF3}|Assembly-CSharp.csproj|C:\\dev\\unityProjects\\Lego Robot estavel\\assets\\scripts\\joystick\\joystickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD23F891-5A23-9D38-FA2D-31ED15DE0FF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\joystick\\joystickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD23F891-5A23-9D38-FA2D-31ED15DE0FF3}|Assembly-CSharp.csproj|C:\\dev\\unityProjects\\Lego Robot estavel\\assets\\scripts\\player\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD23F891-5A23-9D38-FA2D-31ED15DE0FF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,29 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JoyStickController.cs",
-              "DocumentMoniker": "C:\\dev\\unityProjects\\Lego Robot estavel\\Assets\\Scripts\\joyStick\\JoyStickController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\joyStick\\JoyStickController.cs",
-              "ToolTip": "C:\\dev\\unityProjects\\Lego Robot estavel\\Assets\\Scripts\\joyStick\\JoyStickController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\joyStick\\JoyStickController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "menuGame.cs",
+              "DocumentMoniker": "C:\\dev\\unityProjects\\Lego Robot estavel\\Assets\\Scripts\\menu\\MenuGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\menu\\MenuGame.cs",
+              "ToolTip": "C:\\dev\\unityProjects\\Lego Robot estavel\\Assets\\Scripts\\menu\\MenuGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\menu\\MenuGame.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIBCwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T18:25:11.804Z",
+              "WhenOpened": "2025-09-18T21:40:52.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MovePlayer.cs",
               "DocumentMoniker": "C:\\dev\\unityProjects\\Lego Robot estavel\\Assets\\Scripts\\Player\\MovePlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MovePlayer.cs",
               "ToolTip": "C:\\dev\\unityProjects\\Lego Robot estavel\\Assets\\Scripts\\Player\\MovePlayer.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\MovePlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T18:25:06.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T18:25:06.892Z"
             }
           ]
         }
